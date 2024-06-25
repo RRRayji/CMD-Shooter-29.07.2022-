@@ -8,4 +8,4 @@ int main(int argc, char* argv[])
 	Game g;
 	return 0;
 }
-//	I gave it up after realizing that I was using the wrong rendering algorithm
+//	I gave it up after realizing I was using the wrong rendering algorithm
